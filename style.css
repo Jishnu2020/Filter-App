@@ -1,0 +1,30 @@
+body {
+background-size: cover;
+background-position: center;
+}
+.heading {
+font-size: 20px;
+width: 100%;
+text-align: center;
+border-radius: 20px;
+}
+canvas {
+border: 5px solid violet;
+box-shadow: 10px 10px 10px grey;
+border-radius: 30px;
+}
+.options {
+margin-top: 700px;
+}
+.btn-warning {
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+.btn-success {
+position: sticky;
+bottom: 0;
+width: 100%;
+margin-top: 50px;
+padding: 15px;
+}
